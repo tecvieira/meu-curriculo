@@ -1,41 +1,44 @@
-# 👋 Robson V.M. Vieira
+# 🚀 Portfólio de Cursos e Certificações - Robson Vander
 
-**Técnico em Eletrônica & Eletricista Veicular | Desenvolvedor Web em Ascensão**
+Este repositório contém o código-fonte da minha página de portfólio profissional, onde apresento minha trajetória acadêmica, certificações técnicas e a transição para o desenvolvimento de sistemas.
 
-## 📖 Sobre Mim
+## 🔗 Link para Visualização
+> **[Acesse o Portfólio Aqui](SEU_LINK_DO_GITHUB_PAGES_AQUI)**
 
-Nascido em 1969 no Rio de Janeiro, sou um profissional com mais de 25 anos de experiência em eletrônica e elétrica veicular. Com formação técnica sólida e uma paixão por tecnologia, estou expandindo minhas habilidades para o desenvolvimento web e programação, buscando oportunidades para aplicar meu conhecimento em projetos inovadores.
-
-- 🎓 **Formação Acadêmica:** Colégio Hélio Alonso (2º grau, 1987)
-- 🔧 **Formação Técnica:** Colégio ITU (Técnico em Eletrônica, 1998)
-- 💼 **Experiência Profissional:** Eletrônica e elétrica veicular desde 1995
-- 📜 **Registro:** CFT-RJ
-
-## 🛠️ Habilidades Técnicas
-
-- **Linguagens de Programação:** Python, JavaScript
-- **Desenvolvimento Web:** HTML5, CSS3, React, Bootstrap 5
-- **Ferramentas e Software:** Excel (Básico/Intermediário), Edição de Imagem e Vídeos, Linux
-- **Outros:** Redes de Computadores, Montagem e Configuração de PCs, Blockchain, Operador de Drones, Inteligência Artificial
-
-## 🎓 Cursos e Certificações
-
-n), Pacote Office (MDATA / M.J.S Informática), Injeção Eletrônica (CLP/ ABELAERJ), Eletricidade Veicular (Marcopolo), Eletrica de Carrocerias (Marcopolo), Caixa Automática ZF Ecomat Nível I e II (ZF do Brasil), Caixa automática ZF (E.V.) (Volvo), Manutenção de Ar Condicionado (Thermo King do Brasil), Teoria e prática de Eletricista de Automóveis (CLP/ ABELAERJ) |
-
-## 📞 Contatos
-
-- 📧 **Email:** tecvander.vieira@gmail.com
-- 📱 **Telefone:** (21) 99999-9999
-- 🔗 **LinkedIn:** [Robson Vander](https://www.linkedin.com/in/robson-vander-911a29119/)
-- 💻 **GitHub:** [tecvieira](https://github.com/tecvieira)
-| Instituição       | Cursos |
-|-------------------|--------|
-| **SEST/SENAT**    | Edição de imagem e vídeos, Excel intermediário, Primeiros passos em Python, Operador de Drones, Noção de administração de conflito, Eletricista de veículos automotores diesel |
-| **FAETEC**        | Programador Web, HTML 5, CSS 3, Introdução ao JavaScript |
-| **SENAC**         | Programador Front‑End com IA, Introdução ao JavaScript, Bootstrap 5, React |
-| **SENAI**         | Excel Básico, Blockchain, Redes de Computadores, Montagem e Configuração de Computadores |
-| **Curso em Vídeo**| Python, JavaScript, HTML5 e CSS 3, Linux |
-| **Cursos Extracurriculares** | Inteligência Artificial (Santander Open Academy), Eletrônica Digital (Universidade Estácio de Sá), Implantação de Rede de Microcomputadores (Faculdade Simonse
 ---
 
-*Rio de Janeiro, Março de 2026* | *Perfil atualizado em 2026*
+## 👨‍💻 Sobre Mim
+Nascido no Rio de Janeiro e com uma base sólida em **Eletrônica e Elétrica Veicular** (atuando desde 1995), estou atualmente expandindo meus horizontes para a área de **Tecnologia da Informação**. 
+
+Minha experiência técnica anterior me proporcionou um raciocínio lógico apurado e facilidade na resolução de problemas complexos, competências que hoje aplico no desenvolvimento de software e automação.
+
+- 🎓 **Estudante de Programação:** Focado em Front-End (React, Bootstrap) e Python.
+- 🛠️ **Background Técnico:** Técnico em Eletrônica registrado no CFT-RJ.
+- 📍 **Localização:** Rio de Janeiro, Brasil.
+
+---
+
+## 🛠️ Tecnologias Utilizadas neste Projeto
+O site foi construído com foco em responsividade e semântica, utilizando as melhores práticas de mercado:
+
+* **HTML5:** Estruturação semântica de conteúdo.
+* **CSS3:** Estilização customizada.
+* **Bootstrap 5:** Framework para layout responsivo (Grid System) e componentes de UI (Cards, Navbar).
+* **Bootstrap Icons:** Biblioteca de ícones vetoriais.
+
+---
+
+## 📚 Principais Qualificações em Destaque
+O portfólio detalha minha jornada de aprendizado em instituições renomadas:
+
+* **SENAC:** Programador Front-End com IA, React e Bootstrap 5.
+* **FAETEC:** Programador Web (HTML, CSS, JavaScript).
+* **SENAI:** Blockchain, Redes de Computadores e Montagem/Configuração.
+* **Outros:** Python (Sest Senat / Curso em Vídeo) e Inteligência Artificial (Santander).
+
+---
+
+## ⚙️ Como executar o projeto localmente
+1. Clone este repositório:
+   ```bash
+   git clone [https://github.com/tecvieira/NOME_DO_REPOSITORIO.git](https://github.com/tecvieira/NOME_DO_REPOSITORIO.git)
