@@ -3,7 +3,7 @@
 Este repositório contém o código-fonte da minha página de portfólio profissional, onde apresento minha trajetória acadêmica, certificações técnicas e a transição para o desenvolvimento de sistemas.
 
 ## 🔗 Link para Visualização
-> **[Acesse o Portfólio Aqui](SEU_LINK_DO_GITHUB_PAGES_AQUI)**
+> **[Acesse o Portfólio Aqui](https://tecvieira.github.io/meu-curriculo/)**
 
 ---
 
